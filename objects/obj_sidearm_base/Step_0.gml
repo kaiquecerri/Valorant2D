@@ -39,7 +39,6 @@ function reload(_reload_time){
 delay_per_bullet = delay_per_bullet > 0 ? delay_per_bullet-1 : 0
 reload_timer = reload_timer > 0 ? reload_timer-1 : 0
 
-
 if obj_player_base.left_mouse shoot(6) //vandal tiro p/seg
 if obj_player_base.key_reload reload(150) //vadal reload time
 

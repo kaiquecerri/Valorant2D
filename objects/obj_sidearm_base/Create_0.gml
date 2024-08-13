@@ -2,7 +2,6 @@
 delay_per_bullet = 0;
 reload_timer = 0;
 
-
 //municao
 
 max_bullets_per_pent = 25
